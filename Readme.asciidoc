@@ -3,6 +3,16 @@
 *ciska* is a screen-oriented text editor, combining the great extensibility of GNU Emacs and
 the powerful editing capabilities of Vim, in a bloat-free environment.
 
+== Roadmap
+
+* [ ] Insert mode bindings (character insertions)
+* [ ] Basic motions.
+* [ ] Basic operators.
+* [ ] Advanced motions.
+* [ ] Advanced operators.
+* [ ] Minibuffer and command execution.
+* [ ] Status line.
+
 == Building
 
 Prerequisties: link:http://www.sbcl.org/[SBCL] with link:https://www.quicklisp.org/beta/[Quicklisp] and link:https://invisible-island.net/ncurses/announce.html[NCurses].
